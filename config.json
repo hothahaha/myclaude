@@ -37,7 +37,7 @@
       ]
     },
     "omo": {
-      "enabled": false,
+      "enabled": true,
       "description": "OmO multi-agent orchestration with Sisyphus coordinator",
       "agents": {
         "oracle": {
